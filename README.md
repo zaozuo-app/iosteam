@@ -26,6 +26,7 @@
 ####AutoLayout
 * [深入剖析AutoLayout 上](http://www.imooc.com/video/11069)
 * [深入剖析AutoLayout 下](http://www.imooc.com/video/11070)
+* [AutoLayout进阶](http://joywii.github.io/blog/2016/03/26/autolayoutjin-jie/)
 
 ####架构设计
 * [iOS应用架构谈 开篇](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
