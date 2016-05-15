@@ -1,5 +1,5 @@
 # ZAOZUO iOS Team
-造作iOS开发团队开发点滴
+造作iOS开发团队成长点滴
 
 ###开发文档：
 * [搭建开发环境 (by ios team)](./doc/%E6%90%AD%E5%BB%BA%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
