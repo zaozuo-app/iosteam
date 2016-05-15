@@ -24,7 +24,8 @@
 * [内存管理理论及最佳实践](http://www.imooc.com/video/11075)
 
 ####AutoLayout
-* [深入剖析AutoLayout](http://www.imooc.com/video/11069)
+* [深入剖析AutoLayout 上](http://www.imooc.com/video/11069)
+* [深入剖析AutoLayout 下](http://www.imooc.com/video/11070)
 
 ####架构设计
 * [iOS应用架构谈 开篇](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
