@@ -1,12 +1,12 @@
 # ZAOZUO iOS Team
 造作iOS开发团队成长点滴
 
-###开发文档：
+##开发文档：
 * [搭建开发环境 (by ios team)](./doc/%E6%90%AD%E5%BB%BA%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
 * [开发规范 (by ios team)](./doc/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)
 * [开发中需要注意的问题 (by ios team)](./doc/%E5%BC%80%E5%8F%91%E4%B8%AD%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E9%97%AE%E9%A2%98.md)
 
-###原创文章：
+##原创文章：
 ####解决方案：
 * [iOS-Swift可行性分析 (by ancode-cn)](./advanced/iOS-Swift%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90.md)
 * [iOS-数据库模块搭建方案 (by ancode-cn)](./advanced/iOS-%E6%95%B0%E6%8D%AE%E5%BA%93%E6%A8%A1%E5%9D%97%E6%90%AD%E5%BB%BA%E6%96%B9%E6%A1%88.md)
@@ -19,5 +19,30 @@
 * [iOS-AutoLayout Constraint及动画使用 (by ancode-cn)](./base/iOS-AutoLayout%20Constraint%E5%8F%8A%E5%8A%A8%E7%94%BB%E4%BD%BF%E7%94%A8.md)
 
 
+##优秀文章(来自网络)：
+####内存管理
+* [内存管理理论及最佳实践](http://www.imooc.com/video/11075)
 
+####AutoLayout
+* [深入剖析AutoLayout](http://www.imooc.com/video/11069)
+
+####架构设计
+* [iOS应用架构谈 开篇](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+* [iOS应用架构谈 view层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
+* [iOS应用架构谈 网络层设计方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
+* [iOS应用架构谈 本地持久化方案及动态部署](http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html)
+* [iOS应用架构谈 组件化方案](http://casatwy.com/iOS-Modulization.html)
+* [Eleme网络层封装库](https://github.com/Eleme-IMF/DRDNetworking)
+* [iOS组件化方案探索](http://blog.cnbang.net/tech/3080/)
+* [蘑菇街 App 的组件化之路](http://limboy.me/ios/2016/03/10/mgj-components.html)
+
+####AOP
+* [Swift AOP](http://nshipster.cn/swift-objc-runtime/)
+
+####性能优化
+* [iOS应用性能调优的25个建议和技巧](http://blog.jobbole.com/37984/)
+
+####多线程
+* [iOS的多线程同步](http://blog.zorro.im/posts/iOS-muti-threading-synchronization.html)
+* [iOS并发编程](https://github.com/ming1016/study/wiki/iOS%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B)
 	
